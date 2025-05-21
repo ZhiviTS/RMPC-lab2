@@ -5,7 +5,7 @@
 3. Set an arbitrary initial robot configuration.
 4. Solve the forward kinematics problem for the given generalized coordinates.
 5. Construct the manipulator's workspace under the given joint constraints.
-6. Select an end point within the workspace and solve the inverse kinematics problem for it.
+6. Select end point within the workspace and solve the inverse kinematics problem for it.
 7. Plan the trajectory between the initial and final positions of the manipulator's end-effector using at least three planning methods.
 8. Plot graphs of position, velocity, and acceleration of the robot's joints during trajectory motion.
 9. Prepare a report in .ipynb format with detailed comments. 
